@@ -1,25 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula" />
+</a>
 
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula"
-    />
-  </a>
-</div>
-
-### 経歴
+## 経歴
 
 呉服営業 > 花屋 > ニート > 呉服営業 > ニート > ギフト商材営業 > 製造業総務 > 製造業社内SE
 
+## 課外活動
+
+[Udemy講師](https://www.udemy.com/user/yi-jiu-jian-bo-zhi/)
+- VBA
+- Google Appsheet
+- Windows ショートカットキー
+- AutoHotKey
+- Excelピボットテーブル
 
 
 <!--
