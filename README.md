@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<!-- https://zenn.dev/chot/articles/3421ec6f622f82 -->
-
 [![My Skills](https://skillicons.dev/icons?i=vim,python)](https://skillicons.dev)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikuma-hiroyuki&theme=dracula&title=MultiLanguage,Joined2020,Commits,Repositories)](https://github.com/ikuma-hiroyuki/ikuma-hiroyuki)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikuma-hiroyuki&theme=dracula&column=4)](https://github.com/ikuma-hiroyuki/ikuma-hiroyuki)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&theme=dracula" />
