@@ -16,11 +16,11 @@
 ## 課外活動
 
 [Udemy講師](https://www.udemy.com/user/yi-jiu-jian-bo-zhi/)
-- VBA
-- Google Appsheet
-- Windows ショートカットキー
 - AutoHotKey
 - Excelピボットテーブル
+- Google Appsheet
+- VBA
+- Windows ショートカットキー
 
 
 <!--
