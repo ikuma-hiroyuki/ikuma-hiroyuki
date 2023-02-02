@@ -2,13 +2,24 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vim,python)](https://skillicons.dev)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikuma-hiroyuki&theme=dracula&column=4)](https://github.com/ikuma-hiroyuki/ikuma-hiroyuki)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikuma-hiroyuki&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- top-langs -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikuma-hiroyuki&theme=dracula" />
-  <img align="center" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&theme=dracula" />
-  <img align="center" height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula&layout=compact" />
 </a>
+
+
+<!-- stats-sigma -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
+<!-- profile-summary-cards -->
+<a href="https://github-profile-summary-cards.vercel.app/demo.html">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikuma-hiroyuki&theme=dracula" />
+</a>
+
 
 ## 経歴
 
