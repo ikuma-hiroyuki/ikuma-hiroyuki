@@ -6,13 +6,20 @@
 
 <!-- top-langs -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula&layout=compact&hide_border=true" />
 </a>
 
+<a href="https://github-profile-summary-cards.vercel.app/demo.html">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikuma-hiroyuki&theme=dracula" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikuma-hiroyuki&theme=dracula&hide_border=true" />
+</a>
 
 <!-- stats-sigma -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 </a>
 
 <!-- profile-summary-cards -->
