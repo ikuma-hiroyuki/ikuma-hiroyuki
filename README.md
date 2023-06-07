@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vim,python)](https://skillicons.dev)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ikuma-hiroyuki&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikuma-hiroyuki&theme=dracula&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![ikuma-hiroyuki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <br>
