@@ -8,7 +8,7 @@
 <br>
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikuma-hiroyuki&theme=dracula&count_private=true)](https://github-profile-summary-cards.vercel.app/demo.html)
 <br>
-[![ikuma-hiroyuki's Stats](https://github-readme-stats.vercel.app/api?username=ikuma-hiroyuki&theme=dracula&show_icons=true&hide_border=true&count_private=true)](https://gh-stats-gen.vercel.app/)
+[![ikuma-hiroyuki's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://gh-stats-gen.vercel.app/)
 <br>
 [![ikuma-hiroyuki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikuma-hiroyuki&theme=dracula&hide_border=true&count_private=true)](https://gh-stats-gen.vercel.app/)
 <br>
