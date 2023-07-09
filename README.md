@@ -22,6 +22,7 @@
 ## 課外活動
 
 [Udemy講師](https://www.udemy.com/user/yi-jiu-jian-bo-zhi/)
+- Python
 - AutoHotKey
 - Excelピボットテーブル
 - Google Appsheet
