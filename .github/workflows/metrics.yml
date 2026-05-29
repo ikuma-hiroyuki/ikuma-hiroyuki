@@ -30,13 +30,9 @@ jobs:
           # ── 基本パネル ──
           base: header, activity, community, repositories, metadata
 
-          # ── habits：コーディング傾向（旧 trophy 枠の代替・潰れない） ──
-          # ※ achievements プラグインは GitHub の Projects(classic) 廃止により upstream 故障中のため不採用
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # ※ achievements / habits プラグインは metrics@3.34.0 が現行GitHub APIに非対応で
+          #    upstream 故障中（Projects classic 廃止 / commit author 取得失敗）のため不採用。
+          #    動作確認済みの base + languages + isocalendar のみで安定構成。
 
           # ── 言語内訳 ──
           plugin_languages: yes
