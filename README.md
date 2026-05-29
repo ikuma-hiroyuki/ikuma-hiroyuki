@@ -19,7 +19,7 @@
 <br>
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikuma-hiroyuki&theme=dracula&count_private=true)](https://github-profile-summary-cards.vercel.app/demo.html)
 
-<!-- 📊 metrics：.github/workflows/metrics.yml が github-metrics.svg を毎日再生成。achievements プラグインが旧trophyの代替。要 METRICS_TOKEN シークレット -->
+<!-- 📊 metrics：.github/workflows/metrics.yml が github-metrics.svg を毎日再生成（activity / languages / isocalendar / habits）。要 METRICS_TOKEN シークレット -->
 ![ikuma-hiroyuki's Metrics](github-metrics.svg)
 
 
