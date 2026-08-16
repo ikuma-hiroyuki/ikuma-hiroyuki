@@ -23,6 +23,10 @@
 ![ikuma-hiroyuki's Metrics](github-metrics.svg)
 
 
+## 制作物
+
+- [シフト自動作成システム](https://shift-scheduler-demo.pages.dev) — 小売店向けの月次シフトを Google OR-Tools（CP-SAT）で自動生成する Web アプリ。FastAPI + React。ログイン画面のデモアカウントでそのまま試せます。
+
 ## 経歴
 
 呉服営業 > 花屋 > ニート > 呉服営業 > ニート > ギフト商材営業 > 製造業総務 > 製造業社内ひとりSE
