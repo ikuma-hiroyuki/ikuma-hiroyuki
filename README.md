@@ -9,15 +9,15 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ikuma-hiroyuki/ikuma-hiroyuki/output/github-snake.svg" />
 </picture>
 
-[![ikuma-hiroyuki's Top Languages](https://ikuma-github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula&show_icons=true&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ikuma-hiroyuki's Top Languages](https://ikuma-github-readme-stats.vercel.app/api/top-langs/?username=ikuma-hiroyuki&theme=dracula&show_icons=true&hide_border=true&layout=compact&count_private=true&cb=20260824b)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![](https://ikuma-github-summary-cards.vercel.app/api/cards/most-commit-language?username=ikuma-hiroyuki&theme=dracula&count_private=true)](https://github-profile-summary-cards.vercel.app/demo.html)
+[![](https://ikuma-github-summary-cards.vercel.app/api/cards/most-commit-language?username=ikuma-hiroyuki&theme=dracula&count_private=true&cb=20260824b)](https://github-profile-summary-cards.vercel.app/demo.html)
 <br>
-[![ikuma-hiroyuki's Stats](https://ikuma-github-readme-stats.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ikuma-hiroyuki's Stats](https://ikuma-github-readme-stats.vercel.app/api?username=ikuma-hiroyuki&count_private=true&show_icons=true&hide_border=true&theme=dracula&cb=20260824b)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![ikuma-hiroyuki's Streak](https://ikuma-streak-stats.onrender.com/?user=ikuma-hiroyuki&theme=dracula&hide_border=true&count_private=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![ikuma-hiroyuki's Streak](https://ikuma-streak-stats.onrender.com/?user=ikuma-hiroyuki&theme=dracula&hide_border=true&count_private=true&cb=20260824b)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
-[![](https://ikuma-github-summary-cards.vercel.app/api/cards/profile-details?username=ikuma-hiroyuki&theme=dracula&count_private=true)](https://github-profile-summary-cards.vercel.app/demo.html)
+[![](https://ikuma-github-summary-cards.vercel.app/api/cards/profile-details?username=ikuma-hiroyuki&theme=dracula&count_private=true&cb=20260824b)](https://github-profile-summary-cards.vercel.app/demo.html)
 
 <!-- 📊 metrics：.github/workflows/metrics.yml が github-metrics.svg を毎日再生成（activity / languages / isocalendar / habits）。要 METRICS_TOKEN シークレット -->
 ![ikuma-hiroyuki's Metrics](github-metrics.svg)
