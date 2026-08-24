@@ -28,10 +28,6 @@
 - [シフト自動作成システム](https://shift-scheduler-demo.pages.dev) — 小売店向けの月次シフトを Google OR-Tools（CP-SAT）で自動生成する Web アプリ。FastAPI + React。ログイン画面のデモアカウントでそのまま試せます。
 - [案件管理・受領書作成アプリ](https://shihou-portfolio-demo.onrender.com) — 司法書士事務所向けの案件進捗・担当割当の可視化と、業務支援ソフトのデータから受領書/報告書を作成するフローを再現した Web アプリ。Next.js + Prisma + PostgreSQL。ログイン不要でそのまま試せます。
 
-## 経歴
-
-呉服営業 > 花屋 > ニート > 呉服営業 > ニート > ギフト商材営業 > 製造業総務 > 製造業社内ひとりSE
-
 ## 課外活動
 
 [Udemy講師](https://www.udemy.com/user/yi-jiu-jian-bo-zhi/)
