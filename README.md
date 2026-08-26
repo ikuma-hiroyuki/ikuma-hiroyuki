@@ -25,8 +25,8 @@
 
 ## 制作物
 
-- [シフト自動作成システム](https://shift-scheduler-demo.pages.dev) — 小売店向けの月次シフトを Google OR-Tools（CP-SAT）で自動生成する Web アプリ。FastAPI + React。ログイン画面のデモアカウントでそのまま試せます。
-- [案件管理・受領書作成アプリ](https://shihou-portfolio-demo.onrender.com) — 司法書士事務所向けの案件進捗・担当割当の可視化と、業務支援ソフトのデータから受領書/報告書を作成するフローを再現した Web アプリ。Next.js + Prisma + PostgreSQL。ログイン不要でそのまま試せます。
+- <a href="https://shift-scheduler-demo.pages.dev" target="_blank" rel="noopener noreferrer">シフト自動作成システム</a>（[リポジトリ](https://github.com/ikuma-hiroyuki/shift-scheduler-demo)） — 小売店向けの月次シフトを Google OR-Tools（CP-SAT）で自動生成する Web アプリ。FastAPI + React。ログイン画面のデモアカウントでそのまま試せます。
+- <a href="https://shihou-portfolio-demo.onrender.com" target="_blank" rel="noopener noreferrer">案件管理・受領書作成アプリ</a>（[リポジトリ](https://github.com/ikuma-hiroyuki/shihou-portfolio-demo)） — 司法書士事務所向けの案件進捗・担当割当の可視化と、業務支援ソフトのデータから受領書/報告書を作成するフローを再現した Web アプリ。Next.js + Prisma + PostgreSQL。ログイン不要でそのまま試せます。
 
 ## 課外活動
 
