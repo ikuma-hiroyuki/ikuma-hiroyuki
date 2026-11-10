@@ -28,6 +28,25 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Vercel/Render の外部カードは GitHub の画像プロキシ(camo)のタイムアウトに
+      # 引っかかり、コールドスタート時に壊れ画像になる。Actions 側で待って取得し、
+      # snake と同じ output ブランチから配信する。失敗時は push せず前回分を残す。
+      - name: Fetch stats cards
+        run: |
+          mkdir -p dist
+          fetch() {
+            curl -fsSL --retry 5 --retry-delay 15 --retry-all-errors --max-time 90 \
+              -o "dist/$1" "$2"
+            head -c 200 "dist/$1" | grep -q "<svg" || { echo "not svg: $1"; exit 1; }
+          }
+          U=ikuma-hiroyuki
+          Q="theme=dracula&count_private=true"
+          fetch top-langs.svg "https://ikuma-github-readme-stats.vercel.app/api/top-langs/?username=$U&$Q&show_icons=true&hide_border=true&layout=compact"
+          fetch most-commit-language.svg "https://ikuma-github-summary-cards.vercel.app/api/cards/most-commit-language?username=$U&$Q"
+          fetch stats.svg "https://ikuma-github-readme-stats.vercel.app/api?username=$U&$Q&show_icons=true&hide_border=true"
+          fetch streak.svg "https://ikuma-streak-stats.onrender.com/?user=$U&$Q&hide_border=true"
+          fetch profile-details.svg "https://ikuma-github-summary-cards.vercel.app/api/cards/profile-details?username=$U&$Q"
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
