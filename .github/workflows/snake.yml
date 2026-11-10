@@ -34,6 +34,8 @@ jobs:
       - name: Fetch stats cards
         run: |
           mkdir -p dist
+          # snk(Docker/root)が作った dist に書き込めるよう所有者を揃える
+          sudo chown -R "$(id -u):$(id -g)" dist
           fetch() {
             curl -fsSL --retry 5 --retry-delay 15 --retry-all-errors --max-time 90 \
               -o "dist/$1" "$2"
